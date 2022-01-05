@@ -1,6 +1,8 @@
 # p2d_pemfc_2phase
 Pseudo-2D half-cell model of a PEMFC cathode that includes two-phase transport.
 
+[![DOI](https://zenodo.org/badge/444956566.svg)](https://zenodo.org/badge/latestdoi/444956566)
+
 ## Objective(s)
 To increase performance and durability metrics in low-cost proton exchange
 membrane fuel cells (PEMFCs), an improved understanding of the complex physiochemical
@@ -101,11 +103,11 @@ A BibTeX entry for LaTeX users is
     author = {Corey R. Randall and Steven C. DeCaluwe},
     year = 2021,
     title = {P2D PEMFC Model(2 Phase) v1.0},
-    doi = {},
-    url = {},
+    doi = {10.5281/zenodo.5823445},
+    url = {https://github.com/c-randall/p2d_pemfc_2phase},
 }
 ```
 
 In both cases, please update the entry with the version used. The DOI for the latest 
-version is given in the badge at the top, or alternately <zenodo link here> will
+version is given in the badge at the top, or alternately <https://doi.org/10.5281/zenodo.5823445> will
 take you to the latest version (and generally represents all versions).

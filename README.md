@@ -31,7 +31,7 @@ Figure 1 gives a representation of the included species, physics, and geometry u
 Most state variables are only tracked in the depth direction of the GDL and CL. Within the thin-film 
 Nafion shells found in the CL, state variables are also tracked radially. 
 
-<p align="center"> <img src=![core_shell_2phase](https://user-images.githubusercontent.com/39809042/148298261-7d4a7a63-814e-4e60-933f-c6ae87483c68.png)> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/39809042/148298439-4bfc66e6-341e-4f1b-9d71-e98dc2c4585c.png"> </p>
 <p align="center"> Figure 1: Illustration of model species, processes, and geometry. </p>
 
 Note that although the model only discretizes and solves equations for the cathode, the membrane

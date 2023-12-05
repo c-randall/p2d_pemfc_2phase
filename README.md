@@ -92,11 +92,7 @@ This tool is released under the BSD-3 clause license, see LICENSE for details.
 ## Citing the Model
 This model is versioned using Zenodo:
 
-If you use this tool as part of a scholarly work, please cite using:
-
-> C.R. Randall and S.C. DeCaluwe. (2021) P2D PEMFC Model (2 Phase) v1.0 [software]. Zenodo.
-
-A BibTeX entry for LaTeX users is
+If you use this tool as part of a scholarly work, please cite the following:
 
 ```TeX
 @article{Randall2022,

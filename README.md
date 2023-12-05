@@ -99,6 +99,18 @@ If you use this tool as part of a scholarly work, please cite using:
 A BibTeX entry for LaTeX users is
 
 ```TeX
+@article{Randall2022,
+  title = {Predicted Impacts of Pt and Ionomer Distributions on Low-Pt-Loaded PEMFC Performance},
+  volume = {169},
+  DOI = {10.1149/1945-7111/ac8cb4},
+  number = {9},
+  journal = {Journal of The Electrochemical Society},
+  publisher = {The Electrochemical Society},
+  author = {Corey R. Randall and Steven C. DeCaluwe},
+  year = {2022},
+  pages = {094512}
+}
+
 @misc{P2D-PEMFC-2Phase,
     author = {Corey R. Randall and Steven C. DeCaluwe},
     year = 2021,
